@@ -53,8 +53,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "contact@srjconstruction.in",
-      href: "mailto:contact@srjconstruction.in"
+      value: "hello@srjconstruction.in",
+      href: "mailto:hello@srjconstruction.in"
     },
     {
       icon: Clock,
